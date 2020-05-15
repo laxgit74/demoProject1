@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-15T08:51:09 CDT" name="Suite" finished-at="2020-05-15T08:51:34 CDT" duration-ms="24902">
+    <groups>
+    </groups>
+    <test started-at="2020-05-15T08:51:09 CDT" name="Test" finished-at="2020-05-15T08:51:34 CDT" duration-ms="24902">
+      <class name="com.beth.demoProject1.TestClass1">
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.beth.demoProject1.TestClass1@534df152]" started-at="2020-05-15T08:51:09 CDT" name="launchDriver" finished-at="2020-05-15T08:51:15 CDT" duration-ms="6648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="test1()[pri:0, instance:com.beth.demoProject1.TestClass1@534df152]" started-at="2020-05-15T08:51:15 CDT" name="test1" finished-at="2020-05-15T08:51:17 CDT" duration-ms="1243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.beth.demoProject1.TestClass1@534df152]" started-at="2020-05-15T08:51:17 CDT" name="quit" finished-at="2020-05-15T08:51:18 CDT" duration-ms="871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.beth.demoProject1.TestClass1@534df152]" started-at="2020-05-15T08:51:18 CDT" name="launchDriver" finished-at="2020-05-15T08:51:23 CDT" duration-ms="5676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="test2()[pri:0, instance:com.beth.demoProject1.TestClass1@534df152]" started-at="2020-05-15T08:51:23 CDT" name="test2" finished-at="2020-05-15T08:51:25 CDT" duration-ms="1416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.beth.demoProject1.TestClass1@534df152]" started-at="2020-05-15T08:51:25 CDT" name="quit" finished-at="2020-05-15T08:51:26 CDT" duration-ms="890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.beth.demoProject1.TestClass1@534df152]" started-at="2020-05-15T08:51:26 CDT" name="launchDriver" finished-at="2020-05-15T08:51:31 CDT" duration-ms="5667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="test3()[pri:0, instance:com.beth.demoProject1.TestClass1@534df152]" started-at="2020-05-15T08:51:31 CDT" name="test3" finished-at="2020-05-15T08:51:33 CDT" duration-ms="1316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.beth.demoProject1.TestClass1@534df152]" started-at="2020-05-15T08:51:33 CDT" name="quit" finished-at="2020-05-15T08:51:34 CDT" duration-ms="1112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.beth.demoProject1.TestClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
